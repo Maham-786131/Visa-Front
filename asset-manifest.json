@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Maham-786131/Visa-Front.git/static/css/main.c05c1dc6.css",
+    "main.js": "/Maham-786131/Visa-Front.git/static/js/main.992d7a89.js",
+    "static/js/453.d7446e4a.chunk.js": "/Maham-786131/Visa-Front.git/static/js/453.d7446e4a.chunk.js",
+    "static/media/translation.jpg": "/Maham-786131/Visa-Front.git/static/media/translation.633284a7286849fedc97.jpg",
+    "static/media/caresol3.jpg": "/Maham-786131/Visa-Front.git/static/media/caresol3.531405dbc6871e142a6a.jpg",
+    "static/media/cert4.jpg": "/Maham-786131/Visa-Front.git/static/media/cert4.531405dbc6871e142a6a.jpg",
+    "static/media/caresol 1.jpg": "/Maham-786131/Visa-Front.git/static/media/caresol 1.767e5db73a2d33505f08.jpg",
+    "static/media/cert1.jpg": "/Maham-786131/Visa-Front.git/static/media/cert1.767e5db73a2d33505f08.jpg",
+    "static/media/caresol2.jpg": "/Maham-786131/Visa-Front.git/static/media/caresol2.c1e2b188679738e6ec94.jpg",
+    "static/media/cert3.jpg": "/Maham-786131/Visa-Front.git/static/media/cert3.c1e2b188679738e6ec94.jpg",
+    "static/media/cert2.jpg": "/Maham-786131/Visa-Front.git/static/media/cert2.afcbea600c973f5658a0.jpg",
+    "static/media/travel.jpg": "/Maham-786131/Visa-Front.git/static/media/travel.38437b4e8741bc25d494.jpg",
+    "static/media/choose2.jpg": "/Maham-786131/Visa-Front.git/static/media/choose2.1335763bc5e0730e4d42.jpg",
+    "static/media/visa.jpg": "/Maham-786131/Visa-Front.git/static/media/visa.d740c8e197dc4916e067.jpg",
+    "index.html": "/Maham-786131/Visa-Front.git/index.html",
+    "main.c05c1dc6.css.map": "/Maham-786131/Visa-Front.git/static/css/main.c05c1dc6.css.map",
+    "main.992d7a89.js.map": "/Maham-786131/Visa-Front.git/static/js/main.992d7a89.js.map",
+    "453.d7446e4a.chunk.js.map": "/Maham-786131/Visa-Front.git/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05c1dc6.css",
+    "static/js/main.992d7a89.js"
+  ]
+}
